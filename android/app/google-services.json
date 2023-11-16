@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "420397990072",
+    "project_id": "rnfirebasechatapp-33053",
+    "storage_bucket": "rnfirebasechatapp-33053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420397990072:android:472bd108557c8101a6344d",
+        "android_client_info": {
+          "package_name": "com.coffeeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420397990072-snutqmn2oqi0f62dl8lb23die2ec0u7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcTRX2sx8PjstOT0vr0hQgASRQC9_20HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420397990072-snutqmn2oqi0f62dl8lb23die2ec0u7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420397990072:android:349348ba0a14e401a6344d",
+        "android_client_info": {
+          "package_name": "com.reactredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420397990072-snutqmn2oqi0f62dl8lb23die2ec0u7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcTRX2sx8PjstOT0vr0hQgASRQC9_20HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420397990072-snutqmn2oqi0f62dl8lb23die2ec0u7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
